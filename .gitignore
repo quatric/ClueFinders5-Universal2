@@ -1,0 +1,21 @@
+# Build output
+/build/
+/dist/
+# The original game (copyrighted; extract it from the MacKiev disk image)
+/game/
+# Test run output
+/test/shots/
+/test/*.log
+/test/ctl
+/test/bg.pid
+/test/support/
+/test/asupport/
+
+# Original-game disassembly, third-party dependencies, local logs
+/analysis/
+/deps/
+/.codesight/
+/test/*
+!/test/*.sh
+!/test/play.txt
+!/test/tools/

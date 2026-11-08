@@ -1,0 +1,16 @@
+wait 12
+click 640 400
+wait 6
+click 640 400
+wait 10
+shot signin.png
+click 560 533
+wait 3
+key S
+key a
+key m
+key return
+wait 2
+click 712 533
+wait 12
+shot intro.png
